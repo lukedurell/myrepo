@@ -10,4 +10,4 @@ y <- rnorm(100) + x
 plot(x, y)
 ```
 
-![](test_markdown_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](test_markdown_files/figure-gfm/r-1.png)<!-- -->
